@@ -3,7 +3,7 @@
 </p>
 
 <h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
-In this analysis, we'll observe and experiment with different network protocols, a firewall, and traffic between two virtual machines running in Azure. We'll use a powerful protocol analyzer called Wireshark to inspect raw traffic running between the two virtual machines.
+In this guide, we'll experiment with different network protocols, a firewall, and traffic between two virtual machines running in Azure. We will also use a powerful protocol analyzer called Wireshark to inspect raw traffic running between the two virtual machines.
 
 <br />
 
@@ -25,7 +25,7 @@ In this analysis, we'll observe and experiment with different network protocols,
 
 **VM and Wireshark Setup**
 
-<p>To begin, we'll make sure to set up our two virtual machines (VMs) properly. "VM1" will run Windows 10, and "VM2" will run an Ubuntu Server. In Azure, we'll make sure to use the same VNET (virtual network). To inspect traffic, we'll download and install Wireshark from https://www.wireshark.org/download.html and set it to capture ethernet traffic.</p>
+<p>First, we'll make sure to set up our two virtual machines (VMs) properly. "VM1" will run Windows 10, and "VM2" will run an Ubuntu Server. In Azure, we'll make sure to use the same VNET (virtual network). To inspect traffic, we'll download and install Wireshark from https://www.wireshark.org/download.html and set it to capture ethernet traffic.</p>
 
 <img width="1094" alt="Screen Shot 2023-07-23 at 9 53 13 AM" src="https://github.com/yeahglo/azure-network-protocols/assets/91516100/2faea9de-1ce5-460f-a94b-d7e8005e0f19">
 
