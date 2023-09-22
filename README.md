@@ -45,7 +45,7 @@ In this guide, we'll experiment with different network protocols, a firewall, an
 - Ping VM2 with VM1 to its private IP address
 - Notice the pings from VM1 (10.0.0.4) to VM2 (10.0.0.5)
 
-<img width="625" alt="Screen Shot 2023-07-23 at 10 28 15 AM" src="https://github.com/yeahglo/azure-network-protocols/assets/91516100/8ff4ae82-056a-42d9-bca5-902c57f2845a">
+<img width="625" alt="Screenshot 2023-09-22 123015" src="https://github.com/DJcaston76/azure-network-protocols/assets/145403292/863fa1e7-a96f-4773-aa17-e9d3b68e7280">
 
 **_ICMP has no raw traffic, at first._**
 
