@@ -119,7 +119,7 @@ In this guide, we'll experiment with different network protocols, a firewall, an
 
 <br/>
 
-<img width="1102" alt="Screen Shot 2023-07-23 at 10 55 38 AM" src="https://github.com/yeahglo/azure-network-protocols/assets/91516100/3b0fa22f-d62e-4b7e-bf2b-aa7257181954">
+<img width="1102" alt="Screenshot 2023-09-22 124427" src="https://github.com/DJcaston76/azure-network-protocols/assets/145403292/a2f675a6-585e-4974-9172-d4392e1af65f">
 
 **_We'll notice the inbound rule is added then refresh._**
 
