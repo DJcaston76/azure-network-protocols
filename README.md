@@ -72,19 +72,6 @@ In this guide, we'll experiment with different network protocols, a firewall, an
 
 **_In Powershell, we'll ping Google._**
 
-<br/>
-
-<img width="1280" alt="Screen Shot 2023-07-23 at 10 38 30 AM" src="https://github.com/yeahglo/azure-network-protocols/assets/91516100/c1faccda-0a74-4d7e-8f03-f55b6665d795">
-
-**_VM1's private IP address pings Google's public IP address._**
-
-<br/>
-
-<img width="1266" alt="Screen Shot 2023-07-23 at 10 39 51 AM" src="https://github.com/yeahglo/azure-network-protocols/assets/91516100/4943fd72-6b4a-48a1-9416-bc23bf3ffa05">
-
-**_The data packet is a random message being sent._**
-
-<br/>
 
 **ICMP Perpetual Ping Test**
 - Send a perpetual ping from VM1 to VM2
