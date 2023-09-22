@@ -1,5 +1,5 @@
 <p align="center">
-<img width="657" alt="Screen Shot 2023-07-23 at 12 12 42 PM" src="https://github.com/yeahglo/azure-network-protocols/assets/91516100/c165f51d-6fcb-4e4e-86d7-1e81354097f1">
+<img width="657" alt="68747470733a2f2f692e696d6775722e636f6d2f55613775646f532e706e67" src="https://github.com/DJcaston76/azure-network-protocols/assets/145403292/33610db6-64f5-47ce-adc3-3f9d4f375200">
 </p>
 
 <h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
