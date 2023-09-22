@@ -78,7 +78,7 @@ In this guide, we'll experiment with different network protocols, a firewall, an
 - Send a perpetual ping from VM1 to VM2
 - Notice the nonstop traffic between both VMs
 
-<img width="631" alt="Screen Shot 2023-07-23 at 10 41 58 AM" src="https://github.com/yeahglo/azure-network-protocols/assets/91516100/06ec3ed5-f5fd-4f2d-a1cd-551540bc866d">
+<img width="631" alt="Screenshot 2023-09-22 125705" src="https://github.com/DJcaston76/azure-network-protocols/assets/145403292/103eb27d-1d4c-4f6d-9639-86884d3f7119">
 
 **_Powershell shows continuous replies from VM2._**
 
