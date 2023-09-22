@@ -113,7 +113,7 @@ In this guide, we'll experiment with different network protocols, a firewall, an
 
 <br/>
 
-<img width="427" alt="Screen Shot 2023-07-23 at 10 49 41 AM" src="https://github.com/yeahglo/azure-network-protocols/assets/91516100/9fd8e990-c8d2-47e6-8382-820379f1881f">
+<img width="427" alt="Screenshot 2023-09-22 124217" src="https://github.com/DJcaston76/azure-network-protocols/assets/145403292/bedc0cc3-31b8-4600-8baa-5e461d628736">
 
 **_We'll add an inbound security rule to disallow ICMP at priority level 200._**
 
