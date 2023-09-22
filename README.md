@@ -234,6 +234,6 @@ In this guide, we'll experiment with different network protocols, a firewall, an
 - Filter traffic for "tcp.port==3389" (RDP's protocol)
 - Observe raw traffic is nonstop while actively using VM1
 
-<img width="944" alt="Screen Shot 2023-07-23 at 11 28 02 AM" src="https://github.com/yeahglo/azure-network-protocols/assets/91516100/f4017d82-2e99-4a0b-bc21-9eece31af69b">
+<img width="944" alt="Screen Shot 2023-07-23 at 11 28 02 AM" src="https://github.com/DJcaston76/azure-network-protocols/assets/91516100/f4017d82-2e99-4a0b-bc21-9eece31af69b">
 
 **_Remote desktop uses Port 3389 by default._**
