@@ -72,6 +72,7 @@ In this guide, we'll experiment with different network protocols, a firewall, an
 
 **_In Powershell, we'll ping Google._**
 
+****
 
 **ICMP Perpetual Ping Test**
 - Send a perpetual ping from VM1 to VM2
