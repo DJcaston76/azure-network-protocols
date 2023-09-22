@@ -218,13 +218,13 @@ In this guide, we'll experiment with different network protocols, a firewall, an
 
 <br/>
 
-<img width="1280" alt="Screen Shot 2023-07-23 at 11 22 00 AM" src="https://github.com/yeahglo/azure-network-protocols/assets/91516100/d39edcd2-dadc-42c4-9f1b-b4ac636cb25f">
+<img width="1280" alt="Screenshot 2023-09-22 130431" src="https://github.com/DJcaston76/azure-network-protocols/assets/145403292/09000c39-5d4f-4777-a752-7ad17c86f0c0">
 
 **_The "dns" filter displays raw traffic between VM1 and Google, then between VM1 and Disney._**
 
 <br/>
 
-<img width="1278" alt="Screen Shot 2023-07-23 at 11 24 32 AM" src="https://github.com/yeahglo/azure-network-protocols/assets/91516100/7db12dc7-5a55-4bd0-94a3-9afcf0bd83dc">
+<img width="1278" alt="Screenshot 2023-09-22 130337" src="https://github.com/DJcaston76/azure-network-protocols/assets/145403292/cea4b87a-dccf-4c5a-b54d-b86f4e66725d">
 
 **_Filtering by "udp.port==53" displays the same data as filtering by "dns"._**
 
