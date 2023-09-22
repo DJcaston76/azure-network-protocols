@@ -113,39 +113,27 @@ In this guide, we'll experiment with different network protocols, a firewall, an
 
 <br/>
 
-<img width="1279" alt="Screen Shot 2023-07-23 at 10 51 22 AM" src="https://github.com/yeahglo/azure-network-protocols/assets/91516100/bb3bb05f-a5df-4015-afe5-e2b85912891e">
+<img width="1279" alt="Screenshot 2023-09-22 132304" src="https://github.com/DJcaston76/azure-network-protocols/assets/145403292/ccf3d642-ba4b-4d7e-ab92-2c1890ab7136">
 
 **_ICMP traffic comes to a stop._**
 
 <br/>
 
-<img width="1195" alt="Screen Shot 2023-07-23 at 10 51 52 AM" src="https://github.com/yeahglo/azure-network-protocols/assets/91516100/fab1b5c5-d079-402c-9c71-fcd719b66be7">
+<img width="430" alt="Screenshot 2023-09-22 124217" src="https://github.com/DJcaston76/azure-network-protocols/assets/145403292/34d4be2b-7555-4c9c-bfe0-f8e8160eff99">
 
-**_A closer look inside Wireshark to see the change from the perpetual ping to no ICMP traffic._**
-
-<br/>
-
-<img width="430" alt="Screen Shot 2023-07-23 at 10 55 57 AM" src="https://github.com/yeahglo/azure-network-protocols/assets/91516100/055def5f-43e1-44dd-87ca-cb5ca89a37a5">
-
-**_We'll allow ICMP traffic again and refresh._**
+**_Instead of denying we can click allow ICMP traffic again and refresh._**
 
 <br/>
 
-<img width="634" alt="Screen Shot 2023-07-23 at 10 57 02 AM" src="https://github.com/yeahglo/azure-network-protocols/assets/91516100/f4c2c025-3b35-4efd-8e98-730f211a6e66">
+<img width="634" alt="Screenshot 2023-09-22 131954" src="https://github.com/DJcaston76/azure-network-protocols/assets/145403292/ba5b777c-9612-4332-81e3-ee1243d10be6">
 
 **_Powershell shows the replies start back up again._**
 
 <br/>
 
-<img width="1195" alt="Screen Shot 2023-07-23 at 10 57 31 AM" src="https://github.com/yeahglo/azure-network-protocols/assets/91516100/b7e7fecf-14b4-4326-aeb7-cb0b1cd37138">
+<img width="631" alt="Screenshot 2023-09-22 131742" src="https://github.com/DJcaston76/azure-network-protocols/assets/145403292/c0da2430-c5d9-4b16-803d-f716aa735dae">
 
-**_A closer look inside Wireshark to see ICMP traffic continue._**
-
-<br/>
-
-<img width="631" alt="Screen Shot 2023-07-23 at 10 58 01 AM" src="https://github.com/yeahglo/azure-network-protocols/assets/91516100/276155ec-e06d-49f0-8f49-8014b3f40310">
-
-**_We'll stop the perpetual ping with control or command + c._**
+**_We can stop the perpetual ping with control or command + c._**
 
 <br/>
 
@@ -156,26 +144,26 @@ In this guide, we'll experiment with different network protocols, a firewall, an
 - Filter for "tcp.port==22"
 - Notice the same information displayed because SSH traffic occurs on Port 22
 
-<img width="535" alt="Screen Shot 2023-07-23 at 11 03 15 AM" src="https://github.com/yeahglo/azure-network-protocols/assets/91516100/167dd4c0-d78d-442b-bbfe-91a3c4f831a0">
+<img width="535" alt="Screenshot 2023-09-22 131553" src="https://github.com/DJcaston76/azure-network-protocols/assets/145403292/3a0d8724-432a-4aa7-9061-9b7315af3b89">
 
 **_While inside VM1, we'll use SSH to log into VM2 using the Powershell command line._**
 
 <br/>
 
-<img width="517" alt="Screen Shot 2023-07-23 at 11 04 08 AM" src="https://github.com/yeahglo/azure-network-protocols/assets/91516100/7ac9d4f2-e3af-4c1d-b821-03e7711b7bbc">
+<img width="517" alt="Screenshot 2023-09-22 131500" src="https://github.com/DJcaston76/azure-network-protocols/assets/145403292/f7b8a36c-9784-4804-a0c1-abcb80716801">
 
 **_Powershell displays SSH has successfully connected to VM2._**
 
 <br/>
 
 
-<img width="1247" alt="Screen Shot 2023-07-23 at 11 09 32 AM" src="https://github.com/yeahglo/azure-network-protocols/assets/91516100/7adccc54-993c-4cc5-a667-92006c77b9de">
+<img width="1247" alt="Screenshot 2023-09-22 131328" src="https://github.com/DJcaston76/azure-network-protocols/assets/145403292/761dcf9f-b3fc-47b0-a223-18ba22e05ad6">
 
 **_Linux commands create raw traffic between VM1 and VM2 over SSH._**
 
 <br/>
 
-<img width="1254" alt="Screen Shot 2023-07-23 at 11 11 47 AM" src="https://github.com/yeahglo/azure-network-protocols/assets/91516100/5ca63c39-cf89-4507-9c82-6c5e1240566c">
+<img width="1254" alt="Screenshot 2023-09-22 131210" src="https://github.com/DJcaston76/azure-network-protocols/assets/145403292/1b47d0c3-28c9-4b28-bd96-7d12b10b117f">
 
 **_Filtering by "tcp.port==22" displays the same data as filtering by "ssh"._**
 
@@ -186,19 +174,15 @@ In this guide, we'll experiment with different network protocols, a firewall, an
 - Use command "ipconfig /renew"
 - Observe the command request a new IP address lease from DHCP
 
-<img width="1237" alt="Screen Shot 2023-07-23 at 5 15 18 PM" src="https://github.com/yeahglo/azure-network-protocols/assets/91516100/5bf811e6-92e9-4e28-b1d1-f06d334aa242">
+<img width="1237" alt="Screenshot 2023-09-22 131055" src="https://github.com/DJcaston76/azure-network-protocols/assets/145403292/7175f4c3-aad6-4287-8cef-0b8bc93c23f3">
 
-**_We'll filter for DHCP and use command "ipconfig /renew"._**
+**_We'll filter for DHCP and use command "ipconfig /renew" it will cause VM1 to reconnect._**
 
-<br/>
-
-<img width="344" alt="Screen Shot 2023-07-23 at 5 15 22 PM" src="https://github.com/yeahglo/azure-network-protocols/assets/91516100/b15bd3fe-6a0f-4edc-9e22-946251dd85a8">
-
-**_The request will cause VM1 to reconnect._**
+****
 
 <br/>
 
-<img width="893" alt="Screen Shot 2023-07-23 at 5 15 52 PM" src="https://github.com/yeahglo/azure-network-protocols/assets/91516100/5e27279a-79cb-4ebc-b9e8-9c1548b673f9">
+<img width="893" alt="Screenshot 2023-09-22 130818" src="https://github.com/DJcaston76/azure-network-protocols/assets/145403292/2c3b7af1-81f7-4b51-bf1b-33759d3edb6c">
 
 **_These packets indicate the DHCP IP address renewal process ocurred._**
 
@@ -212,7 +196,7 @@ In this guide, we'll experiment with different network protocols, a firewall, an
 - Notice the requests and responses to Disney
 
 
-<img width="604" alt="Screen Shot 2023-07-23 at 11 24 20 AM" src="https://github.com/yeahglo/azure-network-protocols/assets/91516100/868b8762-ac13-447b-b53a-dd9eabc56120">
+<img width="604" alt="Screenshot 2023-09-22 130706" src="https://github.com/DJcaston76/azure-network-protocols/assets/145403292/1c35dcec-10cf-48bc-87b1-23c03b4414b4">
 
 **_We'll use nslookup for Google and Disney's websites._**
 
