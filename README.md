@@ -33,7 +33,7 @@ In this guide, we'll experiment with different network protocols, a firewall, an
 
 <br/>
 
-<img width="731" alt="Screen Shot 2023-07-23 at 10 26 11 AM" src="https://github.com/yeahglo/azure-network-protocols/assets/91516100/dbbd8cf0-cf94-438c-991a-d45d8857105d">
+<img width="731" alt="Screenshot 2023-09-22 122837" src="https://github.com/DJcaston76/azure-network-protocols/assets/145403292/1885a4ed-44d4-46af-b83c-360db197d139">
 
 **_Wireshark capture is set to Ethernet._**
 
