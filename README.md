@@ -27,7 +27,7 @@ In this guide, we'll experiment with different network protocols, a firewall, an
 
 <p>First, we'll make sure to set up our two virtual machines (VMs) properly. "VM1" will run Windows 10, and "VM2" will run an Ubuntu Server. In Azure, we'll make sure to use the same VNET (virtual network). To inspect traffic, we'll download and install Wireshark from https://www.wireshark.org/download.html and set it to capture ethernet traffic.</p>
 
-<img width="1094" alt="Screenshot 2023-09-22 122424" src="https://github.com/DJcaston76/azure-network-protocols/assets/145403292/e5d4c6a1-8387-4ebf-ade0-1b8bb081730b">
+<img width="1094" alt="Screenshot 2023-09-22 122645" src="https://github.com/DJcaston76/azure-network-protocols/assets/145403292/b9f7fd0c-c1ff-4d13-bd43-40827ae4ef57">
 
 **_VM1 and VM2 will both run VNET, "VM1-vnet", in Azure._**
 
