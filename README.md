@@ -1,4 +1,4 @@
-![Screenshot 2023-09-22 123340](https://github.com/DJcaston76/azure-network-protocols/assets/145403292/0e1a23d9-b294-44e2-9ace-9626d4491b5f)<p align="center">
+![Screenshot 2023-09-22 124013](https://github.com/DJcaston76/azure-network-protocols/assets/145403292/46623b58-1ca7-480c-99b8-15e14901ea23)![Screenshot 2023-09-22 123340](https://github.com/DJcaston76/azure-network-protocols/assets/145403292/0e1a23d9-b294-44e2-9ace-9626d4491b5f)<p align="center">
 <img width="657" alt="68747470733a2f2f692e696d6775722e636f6d2f55613775646f532e706e67" src="https://github.com/DJcaston76/azure-network-protocols/assets/145403292/33610db6-64f5-47ce-adc3-3f9d4f375200">
 </p>
 
@@ -107,7 +107,7 @@ In this guide, we'll experiment with different network protocols, a firewall, an
 - Re-allow ICMP traffic to come through via the Inbound Security Rules
 - Observe how ICMP traffic goes through again
 
-<img width="786" alt="Screen Shot 2023-07-23 at 10 46 53 AM" src="https://github.com/yeahglo/azure-network-protocols/assets/91516100/90980707-f62b-4c3c-a862-4024ff4f26ac">
+<img width="786" alt="Screenshot 2023-09-22 124013" src="https://github.com/DJcaston76/azure-network-protocols/assets/145403292/c8a268e1-a4a4-4374-8a40-44525688e039">
 
 **_Network Security Groups essentially contain firewall settings for VMs in Azure._**
 
