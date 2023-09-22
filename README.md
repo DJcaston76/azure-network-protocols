@@ -1,4 +1,4 @@
-![Screenshot 2023-09-22 124013](https://github.com/DJcaston76/azure-network-protocols/assets/145403292/46623b58-1ca7-480c-99b8-15e14901ea23)![Screenshot 2023-09-22 123340](https://github.com/DJcaston76/azure-network-protocols/assets/145403292/0e1a23d9-b294-44e2-9ace-9626d4491b5f)<p align="center">
+<p align="center">
 <img width="657" alt="68747470733a2f2f692e696d6775722e636f6d2f55613775646f532e706e67" src="https://github.com/DJcaston76/azure-network-protocols/assets/145403292/33610db6-64f5-47ce-adc3-3f9d4f375200">
 </p>
 
