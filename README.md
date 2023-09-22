@@ -68,7 +68,7 @@ In this guide, we'll experiment with different network protocols, a firewall, an
 - Notice the requests and replies to and from VM1 and Google
 - Observe packet contents inside the Internet Control Message Protocol toggle
 
-<img width="631" alt="Screen Shot 2023-07-23 at 10 37 33 AM" src="https://github.com/yeahglo/azure-network-protocols/assets/91516100/21c4e34a-830c-4a43-adca-c879e4aafc19">
+<img width="631" alt="Screenshot 2023-09-22 125031" src="https://github.com/DJcaston76/azure-network-protocols/assets/145403292/b73dc44a-a3b1-4b39-abfd-e803a7694524">
 
 **_In Powershell, we'll ping Google._**
 
