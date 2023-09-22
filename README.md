@@ -57,7 +57,7 @@ In this guide, we'll experiment with different network protocols, a firewall, an
 
 <br/>
 
-<img width="1115" alt="Screen Shot 2023-07-23 at 10 36 07 AM" src="https://github.com/yeahglo/azure-network-protocols/assets/91516100/3b74d41f-93e4-4610-913e-9dfa07715de6">
+<img width="1115" alt="Screenshot 2023-09-22 123643" src="https://github.com/DJcaston76/azure-network-protocols/assets/145403292/5e805a91-09ec-43bf-b92a-c3a5d79adb74">
 
 **_Wireshark displays protocol and request/reply data from each IP address._**
 
