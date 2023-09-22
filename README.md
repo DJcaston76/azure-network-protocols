@@ -1,4 +1,4 @@
-<p align="center">
+![Screenshot 2023-09-22 123340](https://github.com/DJcaston76/azure-network-protocols/assets/145403292/0e1a23d9-b294-44e2-9ace-9626d4491b5f)<p align="center">
 <img width="657" alt="68747470733a2f2f692e696d6775722e636f6d2f55613775646f532e706e67" src="https://github.com/DJcaston76/azure-network-protocols/assets/145403292/33610db6-64f5-47ce-adc3-3f9d4f375200">
 </p>
 
@@ -51,7 +51,7 @@ In this guide, we'll experiment with different network protocols, a firewall, an
 
 <br/>
 
-<img width="633" alt="Screen Shot 2023-07-23 at 10 35 27 AM" src="https://github.com/yeahglo/azure-network-protocols/assets/91516100/2f05e084-c756-4cda-8d9f-638088497837">
+<img width="633" alt="Screenshot 2023-09-22 123340" src="https://github.com/DJcaston76/azure-network-protocols/assets/145403292/55f67691-bb02-43ed-b44f-5bce7b018f53">
 
 **_Powershell lists out 4 replies from VM2 after the ping._**
 
